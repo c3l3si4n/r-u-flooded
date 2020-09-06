@@ -1,0 +1,11 @@
+[package]
+name = "r-u-flooded"
+version = "0.1.0"
+authors = ["Celesian <insidetf2@gmail.com>"]
+edition = "2020"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.7.3"
+
