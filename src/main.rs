@@ -7,7 +7,7 @@ use std::time;
 
 fn new_socket(host: &str, port: u32) -> UdpSocket{
 	let socket = UdpSocket::bind(format!("0.0.0.0:{}", port)).unwrap();
-	socket.set_nonblocking(true).unwrap();
+	
 	println!("{}",host);
     socket.connect(host).unwrap();
 	return socket;
