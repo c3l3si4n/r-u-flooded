@@ -1,5 +1,5 @@
 # r-u-flooded
-🦀 UDP-based DoS (Denial of Service) stress testing and Denial of Service tool made in Rust.
+🦀 r(ust)-u(dp)-flooded is a UDP-based DoS (Denial of Service) stress testing and Denial of Service tool made in Rust.
 
 
 ## Build
