@@ -5,6 +5,8 @@
 ## Build
 
 ```bash
+git clone https://github.com/celsec/r-u-flooded
+cd r-u-flooded
 apt-get install cargo
 cargo build
 ./target/debug/r-u-flooded
