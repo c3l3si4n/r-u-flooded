@@ -1,5 +1,5 @@
 # r-u-flooded
-🦀 ruflooded is a UDP-based DoS (Denial of Service) stress testing and Denial of Service tool made in Rust.
+🦀 ruflooded is a UDP DoS (Denial of Service) stress testing and Denial of Service tool made in Rust.
 
 
 ## Build
